@@ -41,7 +41,13 @@ app.listen(Port, console.log("server is runnign on port 8000"));
 
 
 
-
+// hosting preference- paid
+// avs-paid
+// google cloud-paid
+// azure- microsoft-paid
+// heroku- paid
+// vercel-free
+// netlify-free
 
 
 
